@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @bodolawale
 - 💕 I’m interested in Backend Development
-- ⌛️ I’m currently practising my Data Structures And Algorithms
-- 👀 I’m looking to collaborate on any project using NodeJS.
 - 📫 How to reach me bodolawale@gmail.com
 
 <!---
